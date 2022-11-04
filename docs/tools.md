@@ -15,4 +15,4 @@ Here is a curated list of scripts the org uses on our ships
 
 ## Industry HUD
 
-- [Codinfused IndyHUD](https://github.com/codeinfused/Indy-Hud)
+- [IndyHUD](https://github.com/codeinfused/Indy-Hud)
