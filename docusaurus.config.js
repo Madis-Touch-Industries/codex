@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Madis-Touch-Industries/codex/',
+            'https://github.com/Madis-Touch-Industries/codex/edit/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Madis-Touch-Industries/codex/',
+            'https://github.com/Madis-Touch-Industries/codex/edit/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
