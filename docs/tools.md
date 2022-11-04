@@ -7,12 +7,12 @@ sidebar_position: 2
 Here is a curated list of scripts the org uses on our ships
 
 ## Pilot HUD
-- ArchHUD
-- GeminiHud
-- AviatorHUD
-- SagasHUD
-- AlbatrossHUD
+
+- [ArchHUD](https://github.com/Archaegeo/Archaegeo-Orbital-Hud)
+- [GeminiHud](https://github.com/Crusader93/Gemini-HUD)
+- [AlbatrossHUD](https://github.com/codeinfused/Albatross-HUD-Community)
+- [Hunting](https://github.com/Seimax/du-hauler-hunting)
 
 ## Industry HUD
-- Codinfused IndyHUD
-- Jericho Ore Board
+
+- [Codinfused IndyHUD](https://github.com/codeinfused/Indy-Hud)
