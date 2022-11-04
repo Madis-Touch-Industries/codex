@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Madis-Touch-Industries/codex/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Madis-Touch-Industries/codex/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -59,8 +59,8 @@ const config = {
       navbar: {
         title: 'MTI Codex',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'MTI Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
