@@ -16,11 +16,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -62,10 +64,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -76,13 +75,7 @@
 
 [![MTI Codex Screen Shot][product-screenshot]](https://codex.madistouch.industries)
 
-To get started with the project
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
-
-* [![React][React.js]][React-url]
+An effort to have documentation for the workings of the org.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,15 +132,6 @@ Project Link: [https://github.com/Madis-Touch-Industries/codex](https://github.c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Madis-Touch-Industries/codex.svg?style=for-the-badge
@@ -161,5 +145,3 @@ Project Link: [https://github.com/Madis-Touch-Industries/codex](https://github.c
 [license-shield]: https://img.shields.io/github/license/Madis-Touch-Industries/codex.svg?style=for-the-badge
 [license-url]: https://github.com/Madis-Touch-Industries/codex/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
