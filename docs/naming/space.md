@@ -1,1 +1,1 @@
-# Space Core Naming Convention
+# Space Core

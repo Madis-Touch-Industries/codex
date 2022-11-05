@@ -1,4 +1,4 @@
-# Dynamic Core Naming Convention
+# Dynamic Core
 
 These are a list of codes the org names ships for org use.
 
