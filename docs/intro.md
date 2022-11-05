@@ -11,6 +11,6 @@ Lets get started on how the org operates
 In MTI We have structured operations into separate divisions with various people in charge of things within that division.
 
 - [Logistics 🚀](/docs/divisions/logistics)
-- [Vanguard 🪖](/docs/divisions/vanguard)
+- [Vanguard 💥](/docs/divisions/vanguard)
 - [Industry 🏭](/docs/divisions/industry)
 - And More..
